@@ -8,6 +8,15 @@
   <img height="250" src="https://image2url.com/r2/default/files/1771887061079-d6cb040f-dbd7-440a-8ffe-47c586f47bd1.ico"  />
 </div>
 
+<div <p align="left">
+<img src="https://img.shields.io/badge/Status-En%20desarrollo-green">
+</p> 
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Descargar%20-%20%20Latest%20-%20green?style=flat&logo=Github&link=https%3A%2F%2Fgithub.com%2FOneMoreKyra%2FYtDownloader%2Freleases%2Flatest">
+
+<img alt="Static Badge" src="https://img.shields.io/badge/Me%20apoyas%3F%20-%20%20Comprame%20un%20cafe%20-%20brown?style=flat&label=%E2%98%95&link=https%3A%2F%2Fbuymeacoffee.com%2Fonemorekyra">
+
+
 ###
 
 <div>
